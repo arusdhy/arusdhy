@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**arusdhy/arusdhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ayla, a Bachelor of Computer and Information Sciences graduate from AUT, specialising in Data Science, AI, Cybersecurity and Networks. I'm from Auckland, NZ, and currently building up my skills while looking for a job to kickstart my career in Data and AI.
 
-Here are some ideas to get you started:
+Currently, I'm learning about RAG and putting what I've learned into a RAG project. For future projects on my GitHub, I plan to explore AI agents, fine-tuning, and more areas of AI engineering to continue upskilling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 Connect with me:
+- You can reach me through my LinkedIn.
+
+⚡ Fun facts
+- I love simplifying my work
+- I'm not a big fan of coffee
+- I love fashion, skincare, anime, and Valorant
+
